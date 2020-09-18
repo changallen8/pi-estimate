@@ -6,5 +6,5 @@ Pi is then calculated using a ratio of points in the circle to points outside th
 
 This is an example of what a finished plot may look like:
 <p align="center">
-  <img src="/Figure%201" width="350" title="Figure 1">
+  <img src="/Figure%201.png" width="350" title="Figure 1">
 </p>
